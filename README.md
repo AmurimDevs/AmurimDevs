@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
 
-- 👨🏼‍💻 Cursando Engenharia de Software
-- 👨🏼‍🎓 Estudando HMTL, CSS e JavaScript
+- 🎓 Cursando Engenharia de Software
+- 🚀 Buscando Estágio na área
 - 💬 Email: caioamurim29@gmail.com
-## Tecnologias que tenho utilizado:
+## Estudando:
 <div
 style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
