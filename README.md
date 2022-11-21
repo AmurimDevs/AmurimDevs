@@ -3,11 +3,11 @@
 
 - 🎓 Cursando Engenharia de Software
 
-<div align="center">
-  <a href="https://github.com/AmurimDevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmurimDevs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmurimDevs&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p float="left" align="center">
+<img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmurimDevs&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
+  <img width="380" src="http://github-streak-stats.herokuapp.com/?user=AmurimDevs&theme=dark&background=0D1117&border=FF2D2D00"/>
+</p>
+
   
   ## ESTUDANDO:
   <div style="display: inline_block"><br>
