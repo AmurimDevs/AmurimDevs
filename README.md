@@ -1,4 +1,4 @@
-### HELOO WORLD! 👋
+### HELLO WORLD! 👋
 
 
 - 🎓 Cursando Engenharia de Software
