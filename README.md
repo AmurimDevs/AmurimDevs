@@ -2,6 +2,7 @@
 
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistema
+- 📱 Tenho o objetivo de me tornar desenvolvedor mobile
 
 <p float="left" align="center">
 <img width="380" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmurimDevs&layout=compact&theme=github_dark&border=FFFFFF03&hide_border=true&locale=pt-br&hide_title=true"/>
